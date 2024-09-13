@@ -6,7 +6,7 @@ About Me
 - I work with technologies like:
   - Ruby on Rails
   - Postgresql
-  - Amazon S3 for cloud storage
+  - Amazon EC2, S3, RDS
   - Python Web Scrapping
 - Tools I love: Git, Docker, Postman, jenkins, Meta Base, AWS(ec2).
 
