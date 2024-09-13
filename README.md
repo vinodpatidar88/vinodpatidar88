@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋 I'm Vinod Patidar
 
-<!--
-**vinodpatidar88/vinodpatidar88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer.
 
-Here are some ideas to get you started:
+About Me
+- I work with technologies like:
+  - Ruby on Rails
+  - Postgresql
+  - Amazon S3 for cloud storage
+  - Python Web Scrapping
+- Tools I love: Git, Docker, Postman, jenkins, Meta Base, AWS(ec2).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+- https://www.linkedin.com/in/vinod-patidar-41a280178/
+- mailto:vinodpatidar9669@gmail.com
+- https://drive.google.com/file/d/15c0xEoAAql7fCoWNm4aC5Sqqn_KkezM6/view?usp=drive_link
+
+Thanks 😄
